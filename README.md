@@ -16,3 +16,4 @@ The project name is RPP. It have the rank of 1st on um_road, 4th on umm_road and
 The repository includes model file, deploy.prototxt, and some pics. 
 You can download and run on justify the model result.
 
+Model download link: https://pan.baidu.com/s/1c4fdixU
