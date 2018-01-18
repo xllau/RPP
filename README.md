@@ -17,3 +17,4 @@ The repository includes model file, deploy.prototxt, and some pics.
 You can download and run on justify the model result.
 
 Model download link: https://pan.baidu.com/s/1c4fdixU
+The caffe should be installed: https://github.com/xllau/PSPNet
